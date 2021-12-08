@@ -1,0 +1,60 @@
+﻿* {
+    box-sizing: border-box !important;
+}
+
+.d-block {
+    display: block !important;
+}
+
+.d-inline {
+    display: inline !important;
+}
+
+.d-inline-block {
+    display: inline-block !important;
+}
+
+.hidden,
+.d-none {
+    display: none;
+}
+
+.bg-dark {
+    background-color: #171719 !important;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.mr-5 {
+    margin-right: 5rem;
+}
+
+.mr-4 {
+    margin-right: 4rem;
+}
+
+.mr-3 {
+    margin-right: 3rem;
+}
+
+.rme-control {
+    cursor: pointer;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}

@@ -1,0 +1,31 @@
+Libs: => KonvaJs (Cần chỉnh sửa), RME.Core.js, RME.Style.css
+Custom anchor Konva: line - 15120
+
+FE: <button id="..." data-img="">Edit<button>
+<div id="..."></div>
+Khởi tạo: RME.init("button Id", "div Id");
+
+RME.Core.js:
+- Render element
+- Init variables:
+	+ elements
+	+ app variables
+- Event: 
+	+ open
+	+ close
+	+ drawCanvas
+	+ initBackground
+	+ initImage
+- Control:
+	+ layoutControl
+	+ backgroundControl
+	+ imageControl
+	+ eraseControl
+	+ textControl
+
+
+- Danh sách công việc:
++ Hoàn thiện text: kéo dài
++ Hoàn thiện BG: scale to fit
++ Undo redo (Khos)
++ Thêm image: đổ bóng, filter
